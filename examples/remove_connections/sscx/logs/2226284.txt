@@ -1,0 +1,175 @@
+Autoloading python/3.10.8
+Autoloading intel-oneapi-mkl/2021.4.0
+Autoloading hpe-mpi/2.25.hmpt
+Autoloading python/3.10.8
+Autoloading hpe-mpi/2.25.hmpt
+Autoloading python/3.10.8
+Autoloading hpe-mpi/2.25.hmpt
++ srun dplace parallel-manipulator -v manipulate-connectome manip_config.json --output-dir=/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/output/ --parallel --profile --convert-to-sonata --splits=100
+Dashboard URL: r2i5n18.bbp.epfl.ch:8787
+[INFO] Log file "/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/output/logs/connectome_manipulation_2024-05-31_17h31.log" created!
+[INFO] Version: connectome_manipulator 0.0.11.dev1
+[INFO] Loading circuit from ./circuit_config.json
+[INFO] Setting up 100 processing batch jobs...
+[INFO] Starting Execution context
+[INFO] Start job submission
+[INFO] Split 1/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 2/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 3/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 4/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 5/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 6/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 7/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 8/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 9/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 10/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 11/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 12/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 13/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 14/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 15/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 16/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 17/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 18/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 19/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 20/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 21/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 22/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 23/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 24/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 25/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 26/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 27/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 28/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 29/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 30/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 31/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 32/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 33/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 34/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 35/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 36/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 37/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 38/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 39/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 40/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 41/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 42/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 43/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 44/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 45/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 46/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 47/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 48/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 49/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 50/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 51/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 52/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 53/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 54/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 55/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 56/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 57/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 58/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 59/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 60/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 61/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 62/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 63/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 64/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 65/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 66/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 67/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 68/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 69/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 70/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 71/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 72/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 73/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 74/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 75/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 76/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 77/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 78/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 79/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 80/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 81/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 82/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 83/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 84/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 85/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 86/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 87/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 88/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 89/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 90/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 91/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 92/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 93/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 94/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 95/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 96/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 97/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 98/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 99/100: Wiring connectome targeting 2118 neurons
+[INFO] Split 100/100: Wiring connectome targeting 2030 neurons
+[INFO] Jobs submitted to DASK
+2024-05-31 17:31:07,516 - distributed.worker - WARNING - Compute Failed
+Key:       manip_wrapper-b85c80b1ceb77a9c4b70d801f8469629
+Function:  manip_wrapper
+args:      (JobsCommonInfo(nodes=(<bluepysnap.nodes.node_population.NodePopulation object at 0x2aab777b8d90>, <bluepysnap.nodes.node_population.NodePopulation object at 0x2aab777b8d90>), edges=<bluepysnap.edges.edge_population.EdgePopulation object at 0x2aab777b9300>), JobInfo(split_index=16, split_total=100, batches=[BatchInfo(payload=None, selection=None, node_ids=[33888, ..., 36005])], out_parquet_file=PosixPath('/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/output/parquet/edges.100-016.parquet')), Options(output_path=PosixPath('/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/output'), config_path=PosixPath('manip_config.json'), logging_path=PosixPath('/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/output/logs'), do_profil
+kwargs:    {}
+Exception: "FileNotFoundError(2, 'No such file or directory')"
+
+Traceback (most recent call last):
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/bin/parallel-manipulator", line 8, in <module>
+    sys.exit(app())
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/click/core.py", line 1130, in __call__
+    return self.main(*args, **kwargs)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/click/core.py", line 1055, in main
+    rv = self.invoke(ctx)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/click/core.py", line 1657, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/click/core.py", line 760, in invoke
+    return __callback(*args, **kwargs)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/cli.py", line 116, in manipulate_connectome
+    connectome_manipulation.main(options, log_file, executor_args=parallel_arg)
+  File "/gpfs/bbp.cscs.ch/ssd/apps/bsd/2023-02-23/stage_externals/install_gcc-12.2.0-skylake/python-3.10.8-rvn6l5/lib/python3.10/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/connectome_manipulation.py", line 377, in main
+    with executors.in_context(options, executor_params, result_hook=result_hook) as executor:
+  File "/gpfs/bbp.cscs.ch/ssd/apps/bsd/2023-02-23/stage_externals/install_gcc-12.2.0-skylake/python-3.10.8-rvn6l5/lib/python3.10/contextlib.py", line 142, in __exit__
+    next(self.gen)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/executors.py", line 110, in dask_ctx
+    executor_wrapper.process_jobs()
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/executors.py", line 49, in process_jobs
+    self._result_hook(job.result(), job.extra_data)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/distributed/client.py", line 326, in result
+    raise exc.with_traceback(tb)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/connectome_manipulation.py", line 330, in manip_wrapper
+    N_syn_out = apply_manipulation(
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/connectome_manipulation.py", line 209, in apply_manipulation
+    m.apply(
+  File "/gpfs/bbp.cscs.ch/ssd/apps/bsd/2023-02-23/stage_externals/install_gcc-12.2.0-skylake/python-3.10.8-rvn6l5/lib/python3.10/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/connectome_manipulation/manipulation/conn_removal.py", line 55, in apply
+    gids_src = get_node_ids(self.nodes[0], sel_src)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/JupyterLab/git_dev/connectome_manipulator/connectome_manipulator/access_functions.py", line 214, in get_node_ids
+    gids = np.intersect1d(gids, nodes.ids(node_set))
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/bluepysnap/nodes/node_population.py", line 400, in ids
+    group = self._node_sets[group]
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/bluepysnap/nodes/node_population.py", line 96, in _node_sets
+    return self._circuit.node_sets
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/bluepysnap/circuit.py", line 82, in node_sets
+    return NodeSets.from_file(path) if path else NodeSets.from_dict({})
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/bluepysnap/node_sets.py", line 78, in from_file
+    content = utils.load_json(filepath)
+  File "/gpfs/bbp.cscs.ch/home/pokorny/ReWiringKernel/lib/python3.10/site-packages/bluepysnap/utils.py", line 53, in load_json
+    with open(filepath, encoding="utf-8") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/gpfs/bbp.cscs.ch/project/proj112/home/kurban/christoph_paper/github/forked/connectome-manipulator_forked/examples/remove_connections/sscx/node_sets.json'
+srun: error: r2i5n18: task 1: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=2226284.0
